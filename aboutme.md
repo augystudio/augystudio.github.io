@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Augy. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm 28 years old, I've been writing forever, and making music for yeears. I used to think I couldn't sing, but I still did and then I kinda found my style. It turned out people loved my voice and my songs :O Those few who had a chance to hear it. 
+Recently I've also started on youtube!
+I like making visuals as well: sketches, paintings. I think some of them are quite good. 
 
-What else do you need?
+I heal when I put my mind to something.
+I am inspired by people who are brave enough to be vulnerable and raw. Not giving a f* about opinions, they're doing their thing. 
+
+
+My favourite artist is Lana Del Rey, and my favourite band Alice In Chains. 
+
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+https://youtube.com/@augystudio 
