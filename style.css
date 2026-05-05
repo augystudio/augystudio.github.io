@@ -12,7 +12,7 @@ body {
     font-family: 'Barlow', sans-serif;
     /* background-color: rgb(252, 251, 233); */
     /* background-color: #de8b9977; */
-    background-color: #390b0b;
+    background-color: #eeb3cd;
     /* background-color: #f2ebe2; ---nice beige */
     /* background-color: #cfa1ac; */
     overflow-x: hidden;
@@ -23,12 +23,12 @@ main {
 }
 
 p {
-    color: #ddbfbf;
+    color: #363232;
     font-size: 17px;
 }
 
 a {
-    color: #ddbfbf;
+    color: #363232;
 }
 
 .navbar {
@@ -49,7 +49,7 @@ a {
 
 .navbar a {
     text-decoration: none;
-    color: #ddbfbf;
+    color: #363232;
 }
 
 .nav-links {
@@ -93,7 +93,7 @@ section {
         padding-top: 15px;
         padding-bottom: 15px;
         /* background-color: #a1efc47c; */
-        background-color: #470e0e;
+        background-color: #ebc4d9;
         /* width: 100%; */
         /* overflow: hidden; */
 }
@@ -132,29 +132,29 @@ section {
 h1 {
     font-size: 69px;
     font-weight: 500;
-    color: #fe7686;
+    color: #cd626e;
 }
 
 h2 {
     font-size: 40px;
     font-weight: 500;
-    color: #fe7676;
+    color: #cd626e;
 }
 
 h3 {
-    color: #fe7676;
+    color: #cd626e;
 }
 
 h4 {
     font-size: 18px;
     font-weight: 500;
-    color: #ddbfbf;
+    color: #363232;
 }
 
 h5 {
     font-size: 16px;
     font-weight: 500;
-    color: #ddbfbf;
+    color: #363232;
 }
 
 .just-some-text {
