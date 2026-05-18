@@ -2,7 +2,8 @@
 
 const poems = [
     "Cross",
-    "Lana"
+    "Lana",
+    "Bike"
 ];
 
 const grid = document.getElementById("poems-grid");
